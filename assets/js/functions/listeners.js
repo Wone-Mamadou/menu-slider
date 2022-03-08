@@ -39,6 +39,6 @@ var listenerFunctions = {
         li.onclick = listenerFunctions.closeNav
     }
 
-    console.log(setupListeners);
+
 
 }

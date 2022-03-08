@@ -133,6 +133,7 @@ header  .header-left li:hover{
   .dots span.active{
       background-color: white;
       border: 0.1px solid black;
+      
   }
 @media screen and (max-width: 650px) {
     .logo img:nth-child(1){
